@@ -70,5 +70,4 @@ Request and Response for all APIs are in JSON format
         "profileImage": "https://media.istockphoto.com/id/1358918776/photo/water-drops-on-the-stalks-of-the-field-grass-natural-plant-
                          texture-in-green-natural-tones.jpg?s=2048x2048&w=is&k=20&c=fRXpeCYnVGJo7GxB49CYb7nlnOsw8Qzizap5epLQNfg="
 }
-   
-13. 
+
