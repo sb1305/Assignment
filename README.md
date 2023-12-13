@@ -1,4 +1,4 @@
-# Assignment
+# Smart Employee Manager
 
 
 Build the Application in Spring Boot using STS.
@@ -22,16 +22,15 @@ Request and Response for all APIs are in JSON format
    c.@DeleteMapping("/delete/{id}")      -->   Delete Employee by ID:
    d.@PutMapping("/update/{id}")         -->   Update Employee by ID
    e.@GetMapping("/getNthLevelManager") -->   Get nth Level Manager of an Employee 
-10. All the task from entry level and intermediate level are completed i.e. -
+10
     a.Add Employee to a Database
     b.Get All Employees
     c.Delete Employee by ID
     d.Update Employee by ID
     a.Get nth Level Manager of an Employee
     b.Get Employees with Pagination and Sorting
-11. Hosting is also done but Email part is not done as there was time constrain.
 
-12. For the API that require JSON file mentioning below- 
+11. For the API that require JSON file mentioning below- 
     a.@PostMapping("/generate")
 
       http://localhost:8080/employees/generate
